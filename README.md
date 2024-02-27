@@ -1,4 +1,4 @@
-[![MasterHead]<img align="right" alt="Coding" width="400" src=https://leverageedu.com/blog/wp-content/uploads/2021/08/Hacker.gif">
+<img align="right" alt="Coding" width="400" src=https://leverageedu.com/blog/wp-content/uploads/2021/08/Hacker.gif">
 <h1 align="center">Hi 👋, I'm Ajay Krishnan</h1>
 <h3 align="center">A passionate cybersecurity researcher and Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/cute-anonymous-hacker-white-hoodie-using-computer-laptop-concept-ethical-hacking-cybersecurity-cybercrime-cyberattack-271581314.jpg">
